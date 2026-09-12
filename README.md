@@ -175,28 +175,28 @@ import plotly                    # Interactive charts
 ## 🖥️ Dashboard Preview
 
 ### Page 1 — Overview
-![Overview Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/Page1_threat.png)
+![Overview Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/Dashboard_screenshort/page1_overview.png)
 
 > 📌 **KPI Cards:** Total Incidents (1,00,000) · Avg TSI Score (5.21) · Avg Response Time (90 Min) · Data Compromised (5.01M GB)
 
 ---
 
 ### Page 2 — Threat Intelligence
-![Threat Intelligence Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/Page%202_threat.png)
+![Threat Intelligence Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/Dashboard_screenshort/page2_threat.png)
 
 > 📌 **KPI Cards:** Overall TSI Score (5.21) · Critical Incidents (25,024) · High Severity Count (5.50) · Avg Severity Score (7.00)
 
 ---
 
 ### Page 3 — Geospatial
-![Geospatial Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/page%203_threat.png)
+![Geospatial Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/Dashboard_screenshort/page3_geospatial.png)
 
 > 📌 **KPI Cards:** Most Attacked Country (India) · Avg Response Time (90.78 Min) · Total Locations (10) · Max Response Time (180 Min)
 
 ---
 
 ### Page 4 — Executive Summary
-![Executive Summary Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/page%204_threat.png)
+![Executive Summary Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/Dashboard_screenshort/page4_executive.png)
 
 > 📌 **KPI Cards:** Overall TSI Score (5.21) · SLA Compliance (33.3%) · Attacks Resolved (25,024) · Total Data at Risk (5.01M GB) · Critical Attacks (12,499) · Avg Attack Duration (151.8 Min)
 
