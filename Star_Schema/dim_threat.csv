@@ -1,9 +1,0 @@
-threat_key,attack_type,severity_category
-1,Phishing,Low
-2,DDoS,Medium
-3,Zero-Day Exploit,High
-4,SQL Injection,Medium
-5,Malware,High
-6,Ransomware,Critical
-7,Brute Force,Medium
-8,Cross-Site Scripting,Low
