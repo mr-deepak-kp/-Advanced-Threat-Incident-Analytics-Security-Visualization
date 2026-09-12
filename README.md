@@ -4,6 +4,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Python](https://img.shields.io/badge/Python-Analysis-yellow)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 ![PowerBI](https://img.shields.io/badge/Dashboard-PowerBI-orange)
 ![StarSchema](https://img.shields.io/badge/Data_Model-Star_Schema-purple)
 ![Level](https://img.shields.io/badge/Level-Intermediate--Advanced-green)
@@ -15,7 +16,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/mr-deepak-kp/ThreatAnalytics-Dashboard)
 ![GitHub stars](https://img.shields.io/github/stars/mr-deepak-kp/ThreatAnalytics-Dashboard?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/mr-deepak-kp/ThreatAnalytics-Dashboard?style=social)
-
 ---
 
 ## 📌 Project Overview
@@ -175,28 +175,28 @@ import plotly                    # Interactive charts
 ## 🖥️ Dashboard Preview
 
 ### Page 1 — Overview
-![Overview Dashboard](Screenshots/page1_overview.png)
+![Overview Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/Page1_threat.png)
 
 > 📌 **KPI Cards:** Total Incidents (1,00,000) · Avg TSI Score (5.21) · Avg Response Time (90 Min) · Data Compromised (5.01M GB)
 
 ---
 
 ### Page 2 — Threat Intelligence
-![Threat Intelligence Dashboard](Screenshots/page2_threat.png)
+![Threat Intelligence Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/Page%202_threat.png)
 
 > 📌 **KPI Cards:** Overall TSI Score (5.21) · Critical Incidents (25,024) · High Severity Count (5.50) · Avg Severity Score (7.00)
 
 ---
 
 ### Page 3 — Geospatial
-![Geospatial Dashboard](Screenshots/page3_geospatial.png)
+![Geospatial Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/page%203_threat.png)
 
 > 📌 **KPI Cards:** Most Attacked Country (India) · Avg Response Time (90.78 Min) · Total Locations (10) · Max Response Time (180 Min)
 
 ---
 
 ### Page 4 — Executive Summary
-![Executive Summary Dashboard](Screenshots/page4_executive.png)
+![Executive Summary Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Dashboard_screenshort/page%204_threat.png)
 
 > 📌 **KPI Cards:** Overall TSI Score (5.21) · SLA Compliance (33.3%) · Attacks Resolved (25,024) · Total Data at Risk (5.01M GB) · Critical Attacks (12,499) · Avg Attack Duration (151.8 Min)
 
@@ -284,7 +284,7 @@ ThreatAnalytics-Dashboard/
 │   └── ThreatAnalytics_Dashboard.pdf        # PDF export of all 4 pages
 │
 ├── 📁 Dataset/
-│   ├── cybersecurity_synthesized_data.csv   # Original raw dataset
+│   ├── threat_incident_data.csv   # Original raw dataset
 │   ├── fact_incident.csv                    # Fact table
 │   ├── dim_time.csv                         # Time dimension
 │   ├── dim_location.csv                     # Location dimension
