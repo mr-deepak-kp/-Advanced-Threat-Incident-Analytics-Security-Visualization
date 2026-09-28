@@ -59,7 +59,7 @@ A **4-page interactive Power BI Dashboard** that transforms raw cybersecurity da
 | 📊 Power BI Dashboard (.pbix) | [View Dashboard](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/tree/main/DashBoard) |
 | 📄 Dashboard PDF Export | [View PDF](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/DashBoard/Threats_Analysis_dashboard.pdf) |
 | 🐍 Python Notebook | [View Notebook](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/notebook/StarSchema.ipynb) |
-| 📑 Presentation | [View Presentation](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/Final_ThreatAnalytics_Presentation.pdf) |
+| 📑 Presentation | [View Presentation](https://github.com/mr-deepak-kp/-Advanced-Threat-Incident-Analytics-Security-Visualization/blob/main/Final_ThreatAnalytics_Presentationn.pdf) |
 
 ---
 
